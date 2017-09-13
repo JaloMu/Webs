@@ -1,0 +1,14 @@
+#imgid{
+    background:#0ff;
+    border-radius:256px;
+}
+
+.imgcls {
+    background:#f0f;
+    border-radius:1000px;
+}
+
+img{
+    background:#ccc;
+    border-radius:256px;
+}
